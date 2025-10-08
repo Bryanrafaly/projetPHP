@@ -69,7 +69,7 @@ Ce découpage garantit une structure claire et évolutive du code.
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/nom-utilisateur/nom-du-projet.git
+   git clone https://github.com/Bryanrafaly/projetPHP.git
    ```
 
 2. Configurer les paramètres de connexion à la base de données dans :
